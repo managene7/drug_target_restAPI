@@ -1,0 +1,15 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+# created-by: conda 25.5.1
+pandas==2.3.0
+matplotlib==3.10.6
+typer==0.16.0
+requests==2.32.3
+biothings-client==0.4.1
+numpy==2.3.0
+sqlalchemy==2.0.43
+fastapi==0.117.1
+uvicorn==0.37.0
+pingouin==0.5.5
+matplotlib_venn==1.1.0
