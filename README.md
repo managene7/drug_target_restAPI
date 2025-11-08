@@ -3,14 +3,14 @@
 <h3>1. Generate and activate a virtual environment using python=3.13.2:</h3>
    
    ```
-   conda create -n restAPI_test python=3.13.2<br>
-   conda activate restAPI_test<br>
+   conda create -n restAPI_test python=3.13.2
+   conda activate restAPI_test
    ```
    
 <h3>3. Install requirements:</h3>
    
    ```
-   pip install -r requirements.txt<br>
+   pip install -r requirements.txt
    ```
 
 <h3>5. Open ETL.ipynb and run all the codes in the cells</h3>
@@ -18,13 +18,13 @@
 <h3>7. Run z1_build_db.py (To build SQLite database):</h3>
       
    ```
-   python z1_build_db.py<br>
+   python z1_build_db.py
    ```
 
 <h3>9. Run z2_runAPI.py (To start API):</h3>
    
    ```
-   python z2_runAPI.py<br>
+   python z2_runAPI.py
    ```
 
 <h3>11. Open another terminal</h3>
@@ -32,7 +32,7 @@
 <h3>13. Run z3_CLI_interface.py (To search drug info using API):</h3>
    
    ```
-   python z3_CLI_interface.py --help<br>
+   python z3_CLI_interface.py --help
    ```
    or<br>
    ```
