@@ -1,3 +1,7 @@
+<h1>Over all architecture of the API</h1>
+<img width="1332" height="1012" alt="image" src="https://github.com/user-attachments/assets/087f1c53-4b59-4343-88a3-9a85ab1a8a1f" />
+
+
 <h1>To run this API, run the following steps:</h1>
 
 <h3>1. Generate and activate a virtual environment using python=3.13.2:</h3>
